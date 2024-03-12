@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3bd8f6e-58e0-4744-b425-d920af5f5ba0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/섹션1/16. 중복문자제거.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/1. 큰 수 출력하기.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/2. 보이는 학생.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/3. 가위 바위 보.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/4. 점수계산.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/5. 등수구하기.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/6. 격자판 최대합.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/섹션2/7. 봉우리.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +89,7 @@
       <workItem from="1709541638507" duration="6173000" />
       <workItem from="1709650957412" duration="2926000" />
       <workItem from="1709730155767" duration="3396000" />
-      <workItem from="1709791215198" duration="15618000" />
+      <workItem from="1709791215198" duration="16997000" />
     </task>
     <servers />
   </component>
